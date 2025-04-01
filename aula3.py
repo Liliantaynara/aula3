@@ -9,4 +9,4 @@ sub = numeroum - numerodois
 print (f" a soma de {numeroum} + {numerodois} = {soma}")
 print (f" a soma de {numeroum} / {numerodois} = {div}")
 print (f" a soma de {numeroum} * {numerodois} = {mult}")
-print (f" a soma de {numeroum} - {numerodois} = {sub}")
+print (f" a soma de {numeroum} - {numerodois} = {subim}")
